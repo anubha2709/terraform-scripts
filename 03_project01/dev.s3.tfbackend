@@ -1,0 +1,3 @@
+  bucket ="terraform-cource-anubhasingh-remotebackend"
+  key = "state.tfstate"
+  region = "us-east-1"
